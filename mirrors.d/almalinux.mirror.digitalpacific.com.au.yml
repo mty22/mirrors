@@ -1,8 +1,8 @@
 ---
 name: almalinux.mirror.digitalpacific.com.au
 address:
-  http: http://almalinux.mirror.digitalpacific.com.au/almalinux
-  https: https://almalinux.mirror.digitalpacific.com.au/almalinux
+  http: http://almalinux.mirror.digitalpacific.com.au/
+  https: https://almalinux.mirror.digitalpacific.com.au/
   rsync: rsync://mirror.digitalpacific.com.au/almalinux
 update_frequency: 3h
 sponsor: DigitalPacific
